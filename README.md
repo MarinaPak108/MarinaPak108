@@ -6,7 +6,8 @@
 # About 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,hibernate,mysql,tomcat, thymleaf &theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,thymeleaf,mysql,http,flutter,c#,flyway&theme=light)](https://skillicons.dev)
+
 
 <!---
 MarinaPak108/MarinaPak108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
