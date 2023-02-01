@@ -6,7 +6,7 @@
 # About 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,thymeleaf,mysql,http,flutter,c#,flyway&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,http,flutter,c#,tomcat,javascript&theme=light)](https://skillicons.dev)
 
 
 <!---
