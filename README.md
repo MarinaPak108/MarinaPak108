@@ -12,17 +12,17 @@
 
 ### GITHUB STATS
 
-[![Somsubhra's github activity graph](https://activity-graph.herokuapp.com/graph?username=somsubhra1&theme=react-dark)](https://github.com/somsubhra1)
+[![Marina Pak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarinaPak108&theme=react-dark)](https://github.com/somsubhra1)
 
 <p align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Somsubhra1&show_icons=true)<br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=MarinaPak108&show_icons=true)<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Somsubhra1&theme=light" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinaPak108&theme=light" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=light" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPak108&layout=compact&theme=light" />
 
-![Profile views](https://gpvc.arturio.dev/Somsubhra1)
+![Profile views](https://gpvc.arturio.dev/MarinaPak108)
 
 </p>
 
