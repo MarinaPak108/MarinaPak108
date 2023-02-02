@@ -6,7 +6,7 @@
 # About 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,docker,dotnet,firebase,github,spring,maven,visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,docker,dotnet,firebase,spring,maven,visualstudio,vscode,idea,github&theme=light)](https://skillicons.dev)
 
 <!---
 MarinaPak108/MarinaPak108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
