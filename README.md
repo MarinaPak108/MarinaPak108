@@ -27,7 +27,6 @@
 ![Profile views](https://gpvc.arturio.dev/MarinaPak108)
 
 </p>
-![photo_2023-02-01_14-05-32](https://rushter.com/counter.svg)
 <!---
 MarinaPak108/MarinaPak108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
