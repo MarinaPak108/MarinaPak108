@@ -12,7 +12,7 @@
 
 ### GITHUB STATS
 
-[![Marina Pak's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarinaPak108&theme=react-dark)](https://github.com/somsubhra1)
+[![MarinaPak108's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarinaPak108&theme=react-dark)](https://github.com/somsubhra1)
 
 <p align="center">
 
