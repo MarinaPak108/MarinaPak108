@@ -23,11 +23,6 @@
 
 </p>
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Somsubhra1/MarinaPak108/master/charts/bar_graph.png) 
-
-
 <!---
 MarinaPak108/MarinaPak108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
