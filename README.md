@@ -9,10 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,pytorch,docker,dotnet,firebase,spring,maven,visualstudio,vscode,idea,github&theme=light)](https://skillicons.dev)
 
-
-### GITHUB STATS
-
-[![Marina Paks github activity graph](https://activity-graph.herokuapp.com/graph?username=MarinaPak108&theme=react-dark)](https://github.com/MarinaPak108)
+## My GITHUB STATS
 
 <p align="center">
 
