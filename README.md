@@ -12,7 +12,7 @@
 # About 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,pytorch,docker,dotnet,firebase,spring,maven,visualstudio,vscode,idea,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,pytorch,docker,dotnet,firebase,spring,maven,visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
 
 ## My GITHUB STATS
 
