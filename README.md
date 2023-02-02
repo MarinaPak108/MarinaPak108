@@ -1,3 +1,8 @@
+
+<div align="center">
+<h3> 👩🏻 Marina Pak | 👩🏻‍💻 Software Engineer & Data Engineer | 🌏 S.Korea </h3> 
+</div>
+
 - 👋 Hi, I’m @MarinaPak108
 - 👀 I’m interested in learning new and apply attained knowledge
 - 🌱 I’m currently learning java EE (BackEnd) and AI
