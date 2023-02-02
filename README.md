@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @MarinaPak108
 - 👀 I’m interested in learning new and apply attained knowledge
-- 🌱 I’m currently learning java EE (BackEnd) and AI
+- 🌱 I’m currently learning BackEnd (java EE) and AI
 - 💞️ I’m looking to collaborate on interesting and challenging projects
 - 📫 How to reach me:  pakmarina108@gmail.com
 
