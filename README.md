@@ -10,16 +10,21 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,pytorch,docker,dotnet,firebase,spring,maven,visualstudio,vscode,idea,github&theme=light)](https://skillicons.dev)
 
 
-## My repos
+### GITHUB STATS
 
-```text
-JavaScript               44 repos            ███████████░░░░░░░░░░░░░░   45.83% 
-TypeScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-CSS                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+[![Somsubhra's github activity graph](https://activity-graph.herokuapp.com/graph?username=somsubhra1&theme=react-dark)](https://github.com/somsubhra1)
 
-```
+<p align="center">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Somsubhra1&show_icons=true)<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Somsubhra1&theme=light" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=light" />
+
+![Profile views](https://gpvc.arturio.dev/Somsubhra1)
+
+</p>
 
 <!---
 MarinaPak108/MarinaPak108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
