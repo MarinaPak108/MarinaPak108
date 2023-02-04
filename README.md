@@ -28,8 +28,6 @@
 
 ## My GITHUB STATS
 
-<p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPak108&layout=compact&theme=light" />
 
 ![Profile views](https://gpvc.arturio.dev/MarinaPak108)
