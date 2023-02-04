@@ -12,7 +12,19 @@
 # About 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,tensorflow,pytorch,docker,dotnet,firebase,spring,maven,visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,&theme=light)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
+
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,docker,dotnet,firebase,spring,maven&theme=light)](https://skillicons.dev)
+
+### Other
+
+[![My Skills](https://skillicons.dev/icons?i=maven&theme=light)](https://skillicons.dev)
 
 ## My GITHUB STATS
 
