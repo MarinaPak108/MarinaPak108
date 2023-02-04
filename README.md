@@ -32,8 +32,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MarinaPak108&show_icons=true)<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinaPak108&theme=light" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPak108&layout=compact&theme=light" />
 
 ![Profile views](https://gpvc.arturio.dev/MarinaPak108)
