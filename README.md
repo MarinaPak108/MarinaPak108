@@ -14,7 +14,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html,mysql,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html&theme=light)](https://skillicons.dev)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
@@ -24,7 +24,7 @@
 
 ### Other
 
-[![My Skills](https://skillicons.dev/icons?i=maven&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,maven&theme=light)](https://skillicons.dev)
 
 ## My GITHUB STATS
 
