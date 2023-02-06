@@ -18,14 +18,13 @@
 
 ### Frameworks and Libraries
 
-#### related to programming
+####   related to programming
 
 [![related to programming](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow&theme=light)](https://skillicons.dev)
       
-#### related to ai
+####   related to ai
 
-[![related to ai]
-<img width="50px" src="https://numpy.org/images/logo.svg"/> 
+[![related to ai]<img width="50px" src="https://numpy.org/images/logo.svg"/> 
 <img width="50px" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/> 
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408"/>
 <img width="50px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
