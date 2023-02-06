@@ -16,6 +16,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs,py,javascript,flutter,&theme=light)](https://skillicons.dev)
 
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql&theme=light)](https://skillicons.dev)
+
 ### Frameworks and Libraries
 
 ####   related to programming
@@ -32,9 +36,7 @@
 <img align="left"  width="70px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png"/>   
 <br />
 
-### Tools
 
-[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql&theme=light)](https://skillicons.dev)
 
 ## My GITHUB STATS
 
