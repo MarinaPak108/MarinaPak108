@@ -12,19 +12,23 @@
 # About 
 ## My skills
 
-### Languages
+## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,flutter,javascript,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,py,javascript,flutter,&theme=light)](https://skillicons.dev)
 
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea&theme=light)](https://skillicons.dev)
+## Frameworks and Libraries
 
-### Technologies
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,docker,dotnet,firebase,spring,maven&theme=light)](https://skillicons.dev)
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow&theme=light)](https://skillicons.dev)
+<img width="50px" src="https://numpy.org/images/logo.svg"/> 
+<img width="50px" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/> 
+<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408"/>
+<img width="50px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+<img width="50px" src="https://feature-engine.trainindata.com/en/latest/_images/FeatureEngine.png"/>
+<img width="70px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png"/>
 
-### Other
+## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,maven&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql&theme=light)](https://skillicons.dev)
 
 ## My GITHUB STATS
 
