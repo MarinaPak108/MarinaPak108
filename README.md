@@ -20,11 +20,11 @@
 
 ####   related to programming
 
-[![related to programming](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css,tensorflow&theme=light)](https://skillicons.dev)
+[![related to programming](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css&theme=light)](https://skillicons.dev)
       
 ### related to ai
 
-[![related to ai](https://skillicons.dev/icons?i=&theme=light)](https://skillicons.dev)
+[![related to ai](https://skillicons.dev/icons?i=tensorflow&theme=light)](https://skillicons.dev)
 <img width="50px" src="https://numpy.org/images/logo.svg"/> 
 <img width="50px" src="https://pandas.pydata.org/static/img/pandas_mark.svg"/> 
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408"/>
