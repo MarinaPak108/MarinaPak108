@@ -34,7 +34,7 @@
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql,postgres&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql&theme=light)](https://skillicons.dev)
 
 
 ## My GITHUB STATS
