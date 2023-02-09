@@ -32,7 +32,7 @@
 <img width="50px" src="https://feature-engine.trainindata.com/en/latest/_images/FeatureEngine.png"/>
 <img width="70px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png"/>
 
-## Tools
+### Other tools
 
 [![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql&theme=light)](https://skillicons.dev)
 
