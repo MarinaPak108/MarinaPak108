@@ -14,7 +14,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,py,javascript,flutter,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,javascript,flutter,&theme=light)](https://skillicons.dev)
 
 ### Frameworks and Libraries
 
