@@ -4,9 +4,9 @@
 </div>
 
 - 👋 Hi, I’m @MarinaPak108
-- 👀 I’m interested in learning new and apply attained knowledge
-- 🌱 I’m currently learning BackEnd (java EE) and AI
-- 💞️ I’m looking to collaborate on interesting and challenging projects
+- 👀 continually learn to solve complex problems and create innovative solutions by using technology and data
+- 🌱 currently learning BackEnd (java EE) and AI
+- 💞️ looking to collaborate on interesting and challenging projects aspecially related to smart factory and IoT
 - 📫 How to reach me:  pakmarina108@gmail.com
 
 # About 
