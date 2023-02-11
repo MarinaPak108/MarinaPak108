@@ -10,6 +10,15 @@
 - 📫 How to reach me:  pakmarina108@gmail.com
 
 # About 
+
+Witnessing Fourth Industrial Revolution, or Industry 4.0, while coming from mechanical engineer background and acquiring skills along with working experience in Soft Ware Engineering, learning Artificial Intelligence became natural next step in my career.
+I enjoy both software development and data analysis:
+-	drive that can be experienced after solving complex problems or find insights in data motivates me to keep going when facing new challenges
+-	great feeling of accomplishment and satisfaction when data is turned into actionable insights or complex issue that has been plaguing me for a while is solved 
+-	ability to monitor intermediate results and make informed decisions in stages helps to self-guide while applying attained skills and knowledge
+-	understanding that such work creates a meaningful impact on the lives of people by releasing them from monotonous work, freeing up time for creativity and work improvement, providing solutions to complex problems, and driving progress in organizations and communities, inspires me and makes me to keep going forward
+I`m eager to work on projects related to smart factories and IoT and will be happy to use unique combination of experience in programming, hands-on experience with physical systems and the mechanics behind them and understanding of Data Science.
+
 ## My skills
 
 ### Languages
