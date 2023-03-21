@@ -19,7 +19,7 @@ I enjoy both software development and data analysis:
 -	ability to monitor intermediate results and make informed decisions in stages helps to self-guide while applying attained skills and knowledge
 -	understanding that such work creates a meaningful impact on the lives of people by releasing them from monotonous work, freeing up time for creativity and work improvement, providing solutions to complex problems, and driving progress in organizations and communities, inspires me and makes me to keep going forward
 
-I`m eager to work on projects related but not limited to smart factories and IoT and will be happy to use unique combination of experience in programming, hands-on experience with physical systems and the mechanics behind them and understanding of Data Science.
+I`m eager to work on projects related but not limited to smart factories and IoT and will be happy to use unique combination of experience in programming, deep technichal understanding of physical systems and the mechanics behind them and Data Science.
 
 ## My skills
 
