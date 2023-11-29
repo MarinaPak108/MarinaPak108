@@ -46,13 +46,6 @@ I`m eager to work on projects related but not limited to smart factories and IoT
 
 [![Tools](https://skillicons.dev/icons?i=docker,visualstudio,vscode,idea,mysql&theme=light)](https://skillicons.dev)
 
-
-## My GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPak108&layout=compact&theme=light" />
-
-![Profile views](https://gpvc.arturio.dev/MarinaPak108)
-
 </p>
 <!---
 MarinaPak108/MarinaPak108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
