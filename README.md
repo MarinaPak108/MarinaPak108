@@ -10,15 +10,20 @@
 
 # About 
 
-Witnessing Fourth Industrial Revolution, or Industry 4.0, while coming from mechanical engineer background and acquiring skills along with working experience in Soft Ware Engineering, learning Artificial Intelligence became natural next step in my career.
+Welcome to my GitHub profile! I am passionate about programming because it enables me to gain a comprehensive understanding of various processes and tackle complex challenges with a strategic mindset.
 
-I enjoy both software development and data analysis:
--	drive that can be experienced after solving complex problems or find insights in data motivates me to keep going when facing new challenges
--	great feeling of accomplishment and satisfaction when data is turned into actionable insights or complex issue that has been plaguing me for a while is solved 
+## Motivation
+-	drive that can be experienced after solving complex problems motivates me to keep going when facing new challenges
 -	ability to monitor intermediate results and make informed decisions in stages helps to self-guide while applying attained skills and knowledge
 -	understanding that such work creates a meaningful impact on the lives of people by releasing them from monotonous work, freeing up time for creativity and work improvement, providing solutions to complex problems, and driving progress in organizations and communities, inspires me and makes me to keep going forward
 
-I`m eager to work on projects related but not limited to smart factories and IoT and will be happy to use unique combination of experience in programming, deep technichal understanding of physical systems and the mechanics behind them and Data Science.
+## Love Debugging
+
+One aspect of programming that particularly fascinates me is debugging. I view it as a transparent and powerful tool that not only identifies issues but also serves as a guide to understanding what went wrong. It is through the meticulous process of debugging that I enhance my skills and deepen my understanding of the intricacies of code.
+
+## Continuous Learning
+
+I thrive on the excitement of learning and exploring new dimensions within the programming realm. Keeping abreast of the latest frameworks, technologies, and languages is not just a professional endeavor; it is a deliberate choice to step out of my comfort zone. Embracing the challenge of mastering updated versions not only offers a breath of fresh air but also provides a fertile ground for problem-solving. The sense of accomplishment that accompanies mastering an updated technology is a driving force in my continuous journey of growth and improvement.
 
 ## My skills
 
