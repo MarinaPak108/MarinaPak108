@@ -5,7 +5,6 @@
 
 - 👋 Hi, I’m @MarinaPak108
 - 👀 continually learn to solve complex problems and create innovative solutions by using technology and data
-- 🌱 currently master BackEnd (java EE) and AI
 - 💞️ looking to collaborate on interesting and challenging projects aspecially related to smart factory and IoT
 - 📫 How to reach me:  pakmarina108@gmail.com
 
@@ -25,13 +24,13 @@ I`m eager to work on projects related but not limited to smart factories and IoT
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,javascript,flutter,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,dart,cs,javascript,flutter,&theme=light)](https://skillicons.dev)
 
 ### Frameworks and Libraries
 
 #### -related to programming
 
-[![related to programming](https://skillicons.dev/icons?i=spring,hibernate,dotnet,html,css&theme=light)](https://skillicons.dev)
+[![related to programming](https://skillicons.dev/icons?i=spring,hibernate,django,flask,flutter,html,css&theme=light)](https://skillicons.dev)
       
 #### -related to AI
 
