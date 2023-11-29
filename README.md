@@ -1,6 +1,6 @@
 
 <div align="center">
-<h3> 👩🏻 Marina Pak | 👩🏻‍💻 Software Engineer & Data Scientist | 🌏 S.Korea </h3> 
+<h3> 👩🏻 Marina Pak | 👩🏻‍💻 Software Engineer </h3> 
 </div>
 
 - 👋 Hi, I’m @MarinaPak108
