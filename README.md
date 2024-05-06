@@ -29,7 +29,7 @@ I thrive on the excitement of learning and exploring new dimensions within the p
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,dart,cs,javascript,flutter,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,dart,cs,javascript,&theme=light)](https://skillicons.dev)
 
 ### Frameworks and Libraries
 
